@@ -7,10 +7,11 @@ Java ATC system built with Swing. Implements custom Graphs (Adjacency Matrix) an
 Here is how the application interface and the underlying graph network look:
 
 ### Main Dashboard Interface
-![Application Main GUI Window](images/dashboard_preview.png)
+![Application Main GUI Window](pic1.png)
+[](pic2.png)
 
 ### Shortest Path Routing Output
-![Dijkstra Algorithm Distance Calculation](images/shortest_path_result.png)
+![Dijkstra Algorithm Distance Calculation](pic3.png)
 
 ##  Code Architecture & Data Structures
 
